@@ -1,7 +1,7 @@
 name: Memories in Transit
 favicon: null
-layout_spectrum: 0.17877780157141387
-typography_spectrum: 0.8366479456890374
+layout_spectrum: 1
+typography_spectrum: 0.91485
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#fbfbfd'
+    - '#332e2b'
+    - '#5c4b2d'
+    - '#597e90'
+    - '#8cb3b8'
   brandStrength: 0.25
   lightness: 0
   saturation: 1
